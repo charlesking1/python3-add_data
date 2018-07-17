@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 total = 0
 
 with open('data.txt') as infile:
